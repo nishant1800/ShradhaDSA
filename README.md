@@ -7,9 +7,7 @@ This repo will track my progress.
 
 ## Progress
 
-- **Day 1**: Arrays Basics – Learned majority element using hashing  
-- **Day 2**:  
-- **Day 3**:  
+- **Day 1**: Check my daily progress
 
 ---
 
@@ -21,5 +19,5 @@ This repo will track my progress.
 ---
 
 ## Connect
-- Twitter: [yourhandle](https://twitter.com/nishant1800)  
-- GitHub: [yourgithub](https://github.com/nishant1800)
+- Twitter: [nishant1800](https://twitter.com/nishant1800)  
+- GitHub: [nishant1800](https://github.com/nishant1800)
