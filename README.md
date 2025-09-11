@@ -19,5 +19,5 @@ This repo will track my progress.
 ---
 
 ## Connect
-- Twitter: [nishant1800](https://twitter.com/nishant1800)  
 - GitHub: [nishant1800](https://github.com/nishant1800)
+- Twitter: [nishantranjan_](https://twitter.com/nishantranjan_)  
