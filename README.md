@@ -20,4 +20,4 @@ This repo will track my progress.
 
 ## Connect
 - GitHub: [nishant1800](https://github.com/nishant1800)
-- Twitter: [nishantranjan_](https://twitter.com/nishantranjan_)  
+- Twitter: [nishantranjan_](https://twitter.com/nishantranjan_)

@@ -5,14 +5,13 @@ import java.util.HashSet;
 class Solution {
     public int[] findMissingAndRepeatedValues(int[][] grid) {
         HashSet<Integer> set = new HashSet<>();
-        int n = grid.length;
-        int sq = n*n;
 
+        int sq = grid.length * grid.length;
         int currSum = 0;
-        int ans[] = new int[2];
+        int ans[] = new int[2]; // repeating & missing array
 
-        for(int i=0; i<n; i++) {
-            for(int j=0; j<n; j++) {
+        for(int i=0; i<grid.length; i++) {
+            for(int j=0; j<grid.length; j++) {
                 if(set.contains(grid[i][j])) {
                     ans[0] = grid[i][j];
                 } else {
@@ -22,8 +21,9 @@ class Solution {
             }
         }
 
-        int totalSum = sq * (sq+1)/2;
+        int totalSum = sq * (sq+1) / 2;
         ans[1] = totalSum - currSum;
+
         return ans;
     }
 }
