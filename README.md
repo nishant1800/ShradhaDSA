@@ -12,9 +12,9 @@ This repo will track my progress.
 ---
 
 ## Goals
-- Solve problems daily  
-- Revise weekly  
-- Post updates on Twitter  
+- Solve problems daily
+- Revise weekly
+- Post updates on Twitter
 
 ---
 
