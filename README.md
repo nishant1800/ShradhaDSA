@@ -5,12 +5,6 @@ This repo will track my progress.
 
 ---
 
-## Progress
-
-- **Day 1**: Check my daily progress
-
----
-
 ## Goals
 - Solve problems daily
 - Revise weekly
