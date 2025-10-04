@@ -20,7 +20,6 @@ class Solution {
                 }
             }
         }
-
         int totalSum = sq * (sq+1) / 2;
         ans[1] = totalSum - currSum;
 
